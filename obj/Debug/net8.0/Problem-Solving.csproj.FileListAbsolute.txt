@@ -1,0 +1,15 @@
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\bin\Debug\net8.0\Problem-Solving.exe
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\bin\Debug\net8.0\Problem-Solving.deps.json
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\bin\Debug\net8.0\Problem-Solving.runtimeconfig.json
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\bin\Debug\net8.0\Problem-Solving.dll
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\bin\Debug\net8.0\Problem-Solving.pdb
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.AssemblyInfoInputs.cache
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.AssemblyInfo.cs
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.csproj.CoreCompileInputs.cache
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.sourcelink.json
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.dll
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\refint\Problem-Solving.dll
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.pdb
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\Problem-Solving.genruntimeconfig.cache
+c:\Users\AshishBandiwar\Desktop\Problem-Solving\obj\Debug\net8.0\ref\Problem-Solving.dll
