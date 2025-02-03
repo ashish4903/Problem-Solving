@@ -9,10 +9,13 @@ class Program
         Console.WriteLine(ContainsDuplicate(nums));
     }
 
-    public static bool ContainsDuplicate(int[] nums){
+    public static bool ContainsDuplicate(int[] nums)
+    {
         HashSet<int> set = new HashSet<int>();
-        foreach(int i in nums){
-            if(set.Contains(i)){
+        foreach (int i in nums)
+        {
+            if (set.Contains(i))
+            {
                 return true;
             }
             set.Add(i);
